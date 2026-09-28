@@ -1,0 +1,1 @@
+"""Islamic geometric pattern generation."""

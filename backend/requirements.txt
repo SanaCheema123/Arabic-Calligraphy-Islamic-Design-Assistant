@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.9
+arabic-reshaper>=3.0
+python-bidi>=0.6
+fonttools>=4.55
+Pillow>=11.0
+cairosvg>=2.7
+numpy>=2.1
+pytesseract>=0.3.13
